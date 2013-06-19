@@ -1,0 +1,12 @@
+Requirements:
+Jdk 1.6
+Junit 4.8.1 (jar provided)
+Maven 4.0
+
+Instrutions:
+-> Given source as maven project
+
+-> To view source in eclipse import as maven project
+
+-> To build the project from command line using maven
+	mvn clean install
